@@ -23,6 +23,8 @@ namespace Multi_Value_Dictionary
         [EnumMember(Value = "ALLMEMBERS")]
         ALLMEMBERS,
         [EnumMember(Value = "ITEMS")]
-        ITEMS
+        ITEMS,
+        [EnumMember(Value = "ALL ITEMS")]
+        ALL ITEMS
     }
 }
